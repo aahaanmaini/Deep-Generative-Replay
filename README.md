@@ -7,7 +7,7 @@ A project built around the framework proposed in: [Continual Learning with Deep 
 
 In this project, the first task is image classification on the MNIST dataset and the second task is image classification on the SVHN (Street View House Numbers) dataset.
 
-A full breakdown of this project, how it works, and the intuition behind it is available in the [article](https://aahaanmaini.medium.com/mimicking-human-continual-learning-in-a-neural-network-c15e1ae11d70)
+A full breakdown of this project, how it works, and the intuition behind it is available in the [article](https://aahaanmaini.medium.com/mimicking-human-continual-learning-in-a-neural-network-c15e1ae11d70).
 
 ## Pipeline
 First Scholar (MNIST Classification):
