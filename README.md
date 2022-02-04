@@ -21,4 +21,4 @@ Second Scholar (SHVN + MNIST Classification):
 2. Train the Solver, 50% on the SHVN dataset and 50% on the fake MNIST dataset (images + labels) &rarr; `shvn_solver.ipynb`
 
 ## Results
-The final CNN (Second Solver) achieved an accuracy of about 90% when tested on both MNIST and SHVN images. Therefore, this project was a success.
+The final CNN (Second Solver) achieved an accuracy of about 90% when tested on both MNIST and SHVN images. 
